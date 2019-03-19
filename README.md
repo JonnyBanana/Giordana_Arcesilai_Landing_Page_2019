@@ -12,5 +12,5 @@ www.giordanaarcesilai.com
 </BR>
 
 
-Coded by: <a href="https://github.com/JonnyBanana">Nicolò Saporito</a> 
+Coded by: <a href="https://github.com/JonnyBanana">Jonny Banana</a> 
 for <a href="https://github.com/WebChainSolutions">WebChainSolutions</a> , Bologna, Italy, 2019
